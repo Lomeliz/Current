@@ -134,3 +134,9 @@ reportes.forEach(rep => {
 * App prototipo en Glide.         https://isjalisco.glide.page 
 * Link a Figma con UI navegable. https://www.figma.com/design/S3tHJD6zV0lKw5fsSVCkim/Sin-t%C3%ADtulo?node-id=0-1&t=dVyUuM326GPbEcS0-1
 
+**Contacto: current.jalisco.management@gmail.com**
+
+
+Equipo DEVS ATOTO.
+
+# Current Jalisco ™ Todos los derechos reservados.
